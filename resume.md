@@ -1,8 +1,8 @@
 # Feterachman Berlian Yahya
 Mahasiswa Ilmu Komputer IPB
 
-*kp. Pangkalan no.22,Bogor\
-+62 856-8717-468\
+*kp. Pangkalan no.22,Bogor \
++62 856-8717-468 \
 fjust212121@gmail.com*
 
 ## Pendidikan
