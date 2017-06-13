@@ -1,9 +1,12 @@
  # Feterachman Berlian Yahya
- Mahasiswa Ilmu Komputer IPB
+ 
+ Mahasiswa Ilmu Komputer IPB\
  
 *kp. Pangkalan rt03/01 no.22 Bogor 16740\
+
 +62 856-8717-468\
-fjust212121@gmail.com*
+
+fjust212121@gmail.com*\
 
 ## Pendidikan
 ### Institut Pertanian Bogor
